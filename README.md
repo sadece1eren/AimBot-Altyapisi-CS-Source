@@ -1,5 +1,3 @@
-
-https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/b062bfc3-3aab-438c-a455-1cefd8846d0e
 # AimBot-Altyapisi-CS-Source
 TR - Basit bir konsol aimbot altyapısı istediğiniz gibi düzenleyebilirsiniz.
 Mouse X2 butonu ile aktifleştiriliyor. isterseniz butonu düzenleyebilir yada tamamen farklı bir oyuna yapabilirsiniz. ( Farklı bir oyuna yaparsanız offsetleri güncellemeyi unutmayın c; )
