@@ -5,8 +5,7 @@ Mouse X2 butonu ile aktifleştiriliyor. isterseniz butonu düzenleyebilir yada t
 Programın içi
 ![Örnek](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)
 
-https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/06360592-0152-4aee-801d-7fb7b8431446
-
+https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/e9f3d013-8445-4af5-9ba5-81848571312a
 
 
 # AimBot-Template-CS-Source
@@ -16,4 +15,4 @@ It is activated with the mouse X2 button. If you want, you can edit it for diffe
 Inside of the program
 ![Sample](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)
 
-https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/06360592-0152-4aee-801d-7fb7b8431446
+https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/e9f3d013-8445-4af5-9ba5-81848571312a
