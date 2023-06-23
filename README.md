@@ -2,7 +2,7 @@
 TR - Basit bir konsol aimbot altyapısı istediğiniz gibi düzenleyebilirsiniz.
 Mouse X2 butonu ile aktifleştiriliyor. isterseniz butonu düzenleyebilir yada tamamen farklı bir oyuna yapabilirsiniz. ( Farklı bir oyuna yaparsanız offsetleri güncellemeyi unutmayın c; )
 
-[![Örnek](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)](https://cdn.discordapp.com/attachments/1118648306772475945/1121537137171497151/2023-06-22_23-25-45_Trim.mp4)
+[![Watch the video](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)](https://cdn.discordapp.com/attachments/1118648306772475945/1121537137171497151/2023-06-22_23-25-45_Trim.mp4)
 
 # AimBot-Template-CS-Source
 EN - A simple console aimbot template feel free to edit.
