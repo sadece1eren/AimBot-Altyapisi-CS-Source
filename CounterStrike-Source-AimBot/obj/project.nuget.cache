@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWk2kgy9Fjeo7qK/bq5aWAKbIrjoJqVkRBwrDzis2baiJGjknRxIgWCQAoRY02xzzUcZeiF6cDEs73vUucpEUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eren_\\source\\repos\\CounterStrike-Source-AimBot\\CounterStrike-Source-AimBot\\CounterStrike-Source-AimBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eren_\\.nuget\\packages\\swed32\\1.1.0\\swed32.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
