@@ -1,10 +1,15 @@
+
+https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/b062bfc3-3aab-438c-a455-1cefd8846d0e
 # AimBot-Altyapisi-CS-Source
 TR - Basit bir konsol aimbot altyapısı istediğiniz gibi düzenleyebilirsiniz.
 Mouse X2 butonu ile aktifleştiriliyor. isterseniz butonu düzenleyebilir yada tamamen farklı bir oyuna yapabilirsiniz. ( Farklı bir oyuna yaparsanız offsetleri güncellemeyi unutmayın c; )
 
 Programın içi
 [![Örnek](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)]
-[![Örnek](https://cdn.discordapp.com/attachments/1118648306772475945/1121537137171497151/2023-06-22_23-25-45_Trim.mp4)]
+
+https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/06360592-0152-4aee-801d-7fb7b8431446
+
+
 
 # AimBot-Template-CS-Source
 EN - A simple console aimbot template feel free to edit.
@@ -12,3 +17,5 @@ It is activated with the mouse X2 button. If you want, you can edit it for diffe
 
 Inside of the program
 [![Sample](https://media.discordapp.net/attachments/1088099454470598737/1121537655772033154/image.png?width=1200&height=676)]
+
+https://github.com/sadece1eren/AimBot-Altyapisi-CS-Source/assets/60568960/06360592-0152-4aee-801d-7fb7b8431446
